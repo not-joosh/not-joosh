@@ -2,4 +2,4 @@
 
 
 
-![Codewars](https://github.r2v.ch/codewars?user=andreasvogt89&stroke=%cfc9f7)
+![Codewars](https://github.r2v.ch/codewars?user=andreasvogt89&stroke=%CFC9FF7)
