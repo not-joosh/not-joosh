@@ -1,4 +1,4 @@
-	Just another casual broken Sims NPC path-finding my way in Factorial Time.
+	Just your everyday broken Sims NPC path-finding its way through life in Factorial Time.
 	
 
 ![Codewars](https://github.r2v.ch/codewars?user=not-joosh&name=true&top_languages=true&stroke=%23b362ff&theme=purple_dark)
