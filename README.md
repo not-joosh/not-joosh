@@ -10,7 +10,7 @@
 	<img height = "50px" width = "50px"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />
 	<img src= "https://skillicons.dev/icons?i=ts,js,c,java,py,powershell,html,css"/>
 	<img height = "50px" width = "50px" src= "https://user-images.githubusercontent.com/105687297/229002393-e1e2e332-df9c-4dc0-bd6f-558609e26238.png"/>
-	<img src= "https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwind,express,threejs"/>
+	<img src= "https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwind,express,threejs,prisma"/>
 </p>
 
 ### Tools
