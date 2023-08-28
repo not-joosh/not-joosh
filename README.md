@@ -18,15 +18,15 @@
 		</div>
 		<div align="center">
 			<img height="50px" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />
-			<img src="https://skillicons.dev/icons?i=ts,js,c,java,py,powershell,html,css" />
+			<img src="https://skillicons.dev/icons?i=ts,js,go,c,java,py,cs,powershell,html,css" />
 			<img height="50px" width="50px" src="https://user-images.githubusercontent.com/105687297/229002393-e1e2e332-df9c-4dc0-bd6f-558609e26238.png" />
-			<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwind,express,threejs,prisma" />
+			<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwind,express,threejs,prisma,net,vite" />
 		</div>
 		<div align="center">
 			<h2>Tools:</h2>
 		</div>
 		<div align="center">
-			<img src="https://skillicons.dev/icons?i=firebase,mongodb,vscode,eclipse" />
+			<img src="https://skillicons.dev/icons?i=firebase,mongodb,vscode,visualstudio,eclipse,vercel,postman,planetscale,postgres" />
 		</div>
 	</div><hr />
 </main>
