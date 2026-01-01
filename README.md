@@ -8,7 +8,7 @@
   <h1>Hi, I'm Josh Ratificar!</h1>
 </div>
 
-<p align="center">
+<div align="center">
   <a href="https://www.reddit.com/r/Hewlett_Packard/comments/15ojssz/hp_envy_16_2023_review_i9_with_rtx_4060/" target="_blank">
     <img
       src="https://github.com/user-attachments/assets/d5d29ec6-c5e1-49b7-ab16-f574d571eae9"
@@ -17,15 +17,24 @@
       alt="HP Envy"
     />
   </a>
+</div>
+
+
+
+<p align="center">
+  <em>2800 RPM is loud. Don't buy a HP Envy 16.</em>
 </p>
 
 <p align="center">
-  <em> my HP Envy is on life support, fans screaming at 2800 RPM. I cannot hear my own thoughts.</em>
+  Anyways, I build cool things.
 </p>
+
+<br />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF6F61&center=true&vCenter=true&width=600&lines=Full+Stack+Engineer;Hardware+%2B+Software+Solutions;I+design%2C+develop%2C+and+ship." alt="Typing SVG" />
 </p>
+
 
 ---
 
